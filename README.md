@@ -1,30 +1,32 @@
 ## Backend Developer (Python / FastAPI)
 
-Backend-focused developer building REST APIs and web applications using Python, FastAPI, and relational databases.  
-Interested in clean architecture, practical problem-solving, and real-world application design.
+Backend developer designing and building REST APIs and data-driven applications using Python, FastAPI, and relational databases.  
+Focused on clean architecture, maintainable code, and practical problem-solving.
 
 ---
 
-### 🚀 Projects
+## Projects
 
 **Movie Library API**  
-REST API for managing a movie catalog with asynchronous data enrichment from an external API.  
-- CRUD operations  
-- External API integration (OMDb)  
-- Async background processing  
-- Data validation and error handling  
+Designed and implemented a REST API for managing a movie catalog, including asynchronous data enrichment from an external service.  
+- Built full CRUD functionality with validation and error handling  
+- Integrated external API (OMDb) with async background processing  
+- Structured the application with clear separation of concerns  
 
 **Logistics Application (No-teleports)**  
-Early project focused on transport planning and process logic.  
-- Practical use of Python fundamentals  
-- Focus on data handling and workflows  
+Developed a transport planning application focused on validating feasible movement paths and enforcing domain constraints.  
+- Implemented core logic for route validation and data consistency  
+- Worked with structured data and process-oriented workflows  
 
-**Forum Application (in progress)**  
-Backend-driven web application with authentication, authorization, and layered architecture.
+**Forum Application**  
+Backend-driven web application with authentication, authorization, and layered architecture.  
+- Implemented role-based access and permission handling  
+- Applied service-oriented design and separation of concerns  
+- Currently extending test coverage  
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 - Python, SQL  
 - FastAPI  
@@ -35,6 +37,6 @@ Backend-driven web application with authentication, authorization, and layered a
 
 ---
 
-### 📫 Connect
+## Connect
 
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/ivanminev/
