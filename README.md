@@ -38,4 +38,4 @@ Backend-driven web application with authentication, authorization, and layered a
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/ivanminev/
+[LinkedIn](https://www.linkedin.com/in/ivanminev/)
