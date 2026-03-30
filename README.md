@@ -31,7 +31,7 @@ Backend-driven web application with authentication, authorization, and layered a
 **Backend:** Python, FastAPI  
 **Data:** MariaDB, SQL  
 **Architecture:** REST APIs, layered architecture  
-**Concepts:** authentication & authorization (JWT, cookies), data validation, separation of concerns
+**Concepts:** authentication & authorization (JWT, cookies), data validation, separation of concerns  
 **Tools:** Git, Postman
 
 ---
